@@ -1,0 +1,64 @@
+﻿<Properties StartupConfiguration="{5F7B7065-5249-E5EA-1D45-15CF05FD932F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/UI/Script/Menu_Start_Control.cs">
+    <Files>
+      <File FileName="Assets/Player/Script/Player_Control.cs" Line="195" Column="51" />
+      <File FileName="Assets/Camera/Script/Camera_Control.cs" />
+      <File FileName="Assets/UI/Script/UI_Control.cs" Line="1" Column="1" />
+      <File FileName="Assets/UI/Script/Menu_Start_Control.cs" Line="10" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Final Project Demo" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Camera" expanded="True">
+                <Node name="Script" expanded="True" />
+              </Node>
+              <Node name="Enemy" expanded="True">
+                <Node name="Script" expanded="True" />
+                <Node name="Sprites" expanded="True">
+                  <Node name="Blue Slime Sprite" expanded="True">
+                    <Node name="Script" expanded="True" />
+                  </Node>
+                  <Node name="Minotaur Sprite" expanded="True">
+                    <Node name="Script" expanded="True" />
+                  </Node>
+                  <Node name="Red Slime Sprite" expanded="True" />
+                  <Node name="Skeleton Sprite" expanded="True">
+                    <Node name="Script" expanded="True" />
+                  </Node>
+                  <Node name="Totem Sprite" expanded="True">
+                    <Node name="Heal Totem Sprite" expanded="True">
+                      <Node name="Script" expanded="True" />
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Pickups" expanded="True">
+                <Node name="Script" expanded="True" />
+              </Node>
+              <Node name="Player" expanded="True">
+                <Node name="Script" expanded="True" />
+              </Node>
+              <Node name="Rooms" expanded="True">
+                <Node name="Script" expanded="True" />
+              </Node>
+              <Node name="UI" expanded="True">
+                <Node name="Script" expanded="True">
+                  <Node name="Menu_Start_Control.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="260ae659-afeb-46d7-a55a-949483c99d73" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

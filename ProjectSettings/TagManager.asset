@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Obstacle
+  - Weapon
+  - Enemy
+  - Ladder
+  - Gear
+  - Gold
+  - Potion
+  - Door
+  - Room1
+  - GoldTotal
+  - DoorRight
+  - DoorUp
+  - DoorDown
+  - DoorLeft
+  - Trap
+  - Environment
+  - Settings
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 2
+    uniqueID: 2919203283
+    locked: 0
+  - name: 3
+    uniqueID: 3398196647
+    locked: 0
+  - name: 1
+    uniqueID: 524162545
+    locked: 0
+  - name: 0
+    uniqueID: 4131898859
+    locked: 0
